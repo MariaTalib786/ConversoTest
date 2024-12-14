@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+	<channel>
+		<title>Your Store Name</title>
+		<link>https://example.com</link>
+		<description>This is a feed of our latest products.</description>
+
+		<item>
+			<g:id>1</g:id>
+			<title>Red T-Shirt1</title>
+			<description>Comfortable cotton T-shirt in vibrant red.</description>
+			<g:link>https://example.com/red-tshirt</g:link>
+			<g:image_link>https://example.com/red-tshirt.jpg</g:image_link>
+			<g:availability>in_stock</g:availability>
+			<g:price>19.99 USD</g:price>
+			<g:sale_price>15.99 USD</g:sale_price>
+			<g:brand>ExampleBrand</g:brand>
+			<g:gtin>1234567890123</g:gtin>
+			<g:mpn>RT12345</g:mpn>
+			<g:condition>new</g:condition>
+			<g:color>Red</g:color>
+			<g:size>M</g:size>
+			<g:gender>unisex</g:gender>
+			<g:age_group>adult</g:age_group>
+		</item>
+
+		<item>
+			<g:id>2</g:id>
+			<title>Blue Jeans</title>
+			<description>Stylish and durable blue denim jeans.</description>
+			<g:link>https://example.com/blue-jeans</g:link>
+			<g:image_link>https://example.com/blue-jeans.jpg</g:image_link>
+			<g:availability>in_stock</g:availability>
+			<g:price>49.99 USD</g:price>
+			<g:sale_price>39.99 USD</g:sale_price>
+			<g:brand>ExampleBrand</g:brand>
+			<g:gtin>2345678901234</g:gtin>
+			<g:mpn>BJ23456</g:mpn>
+			<g:condition>new</g:condition>
+			<g:color>Blue</g:color>
+			<g:size>32</g:size>
+			<g:gender>male</g:gender>
+			<g:age_group>adult</g:age_group>
+		</item>
+
+		<item>
+			<g:id>3</g:id>
+			<title>Running Shoes</title>
+			<description>Lightweight and breathable running shoes.</description>
+			<g:link>https://example.com/running-shoes</g:link>
+			<g:image_link>https://example.com/running-shoes.jpg</g:image_link>
+			<g:availability>in_stock</g:availability>
+			<g:price>79.99 USD</g:price>
+			<g:sale_price>69.99 USD</g:sale_price>
+			<g:brand>ExampleBrand</g:brand>
+			<g:gtin>3456789012345</g:gtin>
+			<g:mpn>RS34567</g:mpn>
+			<g:condition>new</g:condition>
+			<g:color>Black</g:color>
+			<g:size>10</g:size>
+			<g:gender>unisex</g:gender>
+			<g:age_group>adult</g:age_group>
+		</item>
+
+		<item>
+			<g:id>4</g:id>
+			<title>Black Hoodie</title>
+			<description>Warm and cozy hoodie in classic black.</description>
+			<g:link>https://example.com/black-hoodie</g:link>
+			<g:image_link>https://example.com/black-hoodie.jpg</g:image_link>
+			<g:availability>in_stock</g:availability>
+			<g:price>39.99 USD</g:price>
+			<g:sale_price>29.99 USD</g:sale_price>
+			<g:brand>ExampleBrand</g:brand>
+			<g:gtin>4567890123456</g:gtin>
+			<g:mpn>BH45678</g:mpn>
+			<g:condition>new</g:condition>
+			<g:color>Black</g:color>
+			<g:size>L</g:size>
+			<g:gender>unisex</g:gender>
+			<g:age_group>adult</g:age_group>
+		</item>
+
+	</channel>
+</rss>
